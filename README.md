@@ -80,16 +80,16 @@ Open Shell and Type the command below
 ```
 python SidNuker.py
 ```
-<img src="https://media.discordapp.net/attachments/1244225486599487649/1256905656934338560/image.png?ex=6682781c&is=6681269c&hm=35f22223630d77799923bab10fa220f69cddc5c93c738a47b0714296bf5224a7&=&format=webp&quality=lossless&width=1024&height=468">
+<img src="https://media.discordapp.net/attachments/1244225486599487649/1256905656934338560/image.png?ex=6682781c&is=6681269c&hm=35f22223630d77799923bab10fa220f69cddc5c93c738a47b0714296bf5224a7&=&format=webp&quality=lossless&width=500&height=400">
 
 
 **STEP4**
 Give the Information required in the shell and continue
-<img src="https://media.discordapp.net/attachments/1244225486599487649/1256871586858799125/image.png?ex=66825861&is=668106e1&hm=a0f4730e7d071db1f5dfd6d262b153ae3f38e40c261eed69c63961f55f3e3d7e&=&format=webp&quality=lossless&width=1024&height=468">
+<img src="https://media.discordapp.net/attachments/1244225486599487649/1256871586858799125/image.png?ex=66825861&is=668106e1&hm=a0f4730e7d071db1f5dfd6d262b153ae3f38e40c261eed69c63961f55f3e3d7e&=&format=webp&quality=lossless&width=500&height=400">
 
 **STEP5**
 Your Target Server Is Nuked :radioactive:
-<img src="https://media.discordapp.net/attachments/1244225486599487649/1256891366760517642/image.png?ex=66826acd&is=6681194d&hm=6a889af235f419c443b94d305a66d7a9eec47c7480470408afc3eb5b34331f26&=&format=webp&quality=lossless&width=1024&height=468">
+<img src="https://media.discordapp.net/attachments/1244225486599487649/1256891366760517642/image.png?ex=66826acd&is=6681194d&hm=6a889af235f419c443b94d305a66d7a9eec47c7480470408afc3eb5b34331f26&=&format=webp&quality=lossless&width=500&height=400">
 
 ## Contributors
 > - zecton0 as the owner of [ShadowNuker](https://github.com/zecton0/ShadowNuker)   

@@ -78,9 +78,9 @@ Open _config.py_ in your repl then Fill it with Information
 **STEP3**
 Open Shell and Type the command below 
 ```
-python ShadowNuker.py
+python SidNuker.py
 ```
-<img src="https://media.discordapp.net/attachments/1244225486599487649/1256852359108362312/image.png?ex=66824679&is=6680f4f9&hm=4918c16fd43480fc1971914a60fa16a56eec0edf4078ce86b81cfadb3d4f8857&=&format=webp&quality=lossless&width=1024&height=468">
+<img src="https://media.discordapp.net/attachments/1244225486599487649/1256905656934338560/image.png?ex=6682781c&is=6681269c&hm=35f22223630d77799923bab10fa220f69cddc5c93c738a47b0714296bf5224a7&=&format=webp&quality=lossless&width=1024&height=468">
 
 
 **STEP4**

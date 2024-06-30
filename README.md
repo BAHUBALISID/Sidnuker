@@ -80,7 +80,7 @@ Open Shell and Type the command below
 ```
 python ShadowNuker.py
 ```
-<img src="https://media.discordapp.net/attachments/1244225486599487649/1256852359108362312/image.png?ex=66824679&is=6680f4f9&hm=4918c16fd43480fc1971914a60fa16a56eec0edf4078ce86b81cfadb3d4f8857&=&format=webp&quality=lossless&width=440&height=205">
+<img src="https://media.discordapp.net/attachments/1244225486599487649/1256852359108362312/image.png?ex=66824679&is=6680f4f9&hm=4918c16fd43480fc1971914a60fa16a56eec0edf4078ce86b81cfadb3d4f8857&=&format=webp&quality=lossless&width=1024&height=468">
 
 
 **STEP4**

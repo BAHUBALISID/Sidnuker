@@ -1,7 +1,7 @@
 import sys
 import os
 
-print("Installing python pip modules for ShadowNuker")
+print("Installing python pip modules for SidNuker")
 if sys.platform.startswith("win"):
     "WINDOWS"
     os.system("pip install pystyle")
@@ -14,4 +14,4 @@ if sys.platform.startswith("win"):
     os.system("pip install threading")
     os.system("pip install discord")
     os.system("pip install discord.py")
-    os.system("python ShadowNuker.py")
+    os.system("python SidNuker.py")

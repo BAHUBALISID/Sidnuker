@@ -1,4 +1,4 @@
-title ShadowNuker
+title SidNuker
 @echo off
 cls
-python ShadowNuker.py
+python SidNuker.py

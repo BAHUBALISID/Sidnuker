@@ -4,7 +4,7 @@
 <h1 align="center">
     :radioactive: SID-Nuker :radioactive:
 </h1>
-<h3 align="center"> Made on Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h3 align="center"> Made on Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br>
 » [Discord Server](https://discord.gg/kolontop) «
 </h3>
 <p align="center">
@@ -84,3 +84,12 @@ Give the Information required in the shell and continue
 
 **STEP5**
 Your Target Server Is Nuked :radioactive:
+
+## Contributors
+> - zecton0 as the owner of [ShadowNuker](https://github.com/zecton0/ShadowNuker)
+>   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/zecton0
+>   &nbsp;
+> - BAHUBALISID as the Owner of this project   
+>   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/BAHUBALISID
+>   &nbsp;
+> - ShashwatSen as the Helper of this Project

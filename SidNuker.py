@@ -620,14 +620,14 @@ async def on_ready():
     while True:
         os.system('cls' if os.name == 'nt' else 'clear')
         choice = input((Colorate.Color(Colors.green, """
-.d8888. d888888b d8888b.   d8b   db db    db db   dD d88888b d8888b. 
-88'  YP   `88'   88  `8D   888o  88 88    88 88 ,8P' 88'     88  `8D 
-`8bo.      88    88   88   88V8o 88 88    88 88,8P   88ooooo 88oobY' 
-  `Y8b.    88    88   88   88 V8o88 88    88 88`8b   88~~~~~ 88`8b   
-db   8D   .88.   88  .8D   88  V888 88b  d88 88 `88. 88.     88 `88. 
-`8888Y' Y888888P Y8888D'   VP   V8P ~Y8888P' YP   YD Y88888P 88   YD                                             
+    .d8888. d888888b d8888b.   d8b   db db    db db   dD d88888b d8888b. 
+    88'  YP   `88'   88  `8D   888o  88 88    88 88 ,8P' 88'     88  `8D 
+    `8bo.      88    88   88   88V8o 88 88    88 88,8P   88ooooo 88oobY' 
+      `Y8b.    88    88   88   88 V8o88 88    88 88`8b   88~~~~~ 88`8b   
+    db   8D   .88.   88  .8D   88  V888 88b  d88 88 `88. 88.     88 `88. 
+    `8888Y' Y888888P Y8888D'   VP   V8P ~Y8888P' YP   YD Y88888P 88   YD                                             
 
-                   » By SID_xd | Version- 1.0 «                                     
+                          » By SID_xd | Version- 1.0 «                                     
                                                                                                              
 -> Spamming <-             -> Nuke <-               -> Creating <-           -> Other <-          
                                                                                                              
